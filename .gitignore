@@ -1,0 +1,21 @@
+# Temporary uploaded images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Face embeddings
+face_data/*.pkl
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,21 @@
+# Temporary files created during face uploads
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Pickle files for embeddings
+face_data/*.pkl
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
