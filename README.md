@@ -159,3 +159,25 @@ Do you want me to create that enhanced version too?
 
 
 # photos
+registration with face
+<img width="1898" height="911" alt="Screenshot 2026-03-18 202845" src="https://github.com/user-attachments/assets/77b891b4-c76a-41c5-82d9-a7d6baa7415a" />
+
+login 
+<img width="1890" height="909" alt="Screenshot 2026-03-18 202831" src="https://github.com/user-attachments/assets/a4afa417-bf1d-4dbc-8d9f-4419b8864965" />
+
+home page
+<img width="1895" height="906" alt="Screenshot 2026-03-18 202902" src="https://github.com/user-attachments/assets/8fe93057-6da2-4909-bf60-824333bc1c5a" />
+
+dashboard
+<img width="1891" height="909" alt="Screenshot 2026-03-18 202954" src="https://github.com/user-attachments/assets/14bcd57a-6fe0-429f-8543-b5932f8eaaa9" />
+
+classes
+<img width="1891" height="910" alt="Screenshot 2026-03-18 203011" src="https://github.com/user-attachments/assets/24353fab-1e6f-4dc4-9f01-cb14def7d738" />
+
+join class
+<img width="1916" height="915" alt="Screenshot 2026-03-18 203027" src="https://github.com/user-attachments/assets/c60be0f6-a2bd-482d-8763-b80f31d97d84" />
+face verifaction for attendance
+<img width="1888" height="906" alt="Screenshot 2026-03-18 203039" src="https://github.com/user-attachments/assets/c2c01e7f-437f-4eeb-a550-2f0ec29f0541" />
+search class
+<img width="1908" height="911" alt="Screenshot 2026-03-18 203054" src="https://github.com/user-attachments/assets/1e68ee73-f7d8-4c2b-8d78-4ba1311548c7" />
+
